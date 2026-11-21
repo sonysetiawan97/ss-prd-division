@@ -2,8 +2,15 @@
 
 - **Date:** 2026-11-21
 - **Source:** `docs/spec/publish-division-bundle.md`
-- **Status:** ready
+- **Status:** done
 - **Blocked by:** None — can start immediately
+
+## Status notes
+
+- [ddd:ubiquitous-language] `skills/ss-grilling/SKILL.md:36,38` — sibling links point at `../ss-domain-modeling/` (the Published name of the local `ss-domain-modeling-001`). The Bundle deliberately excludes `ss-domain-modeling` (spec "Out of Scope", decision: grilling ships copied, no companion skills). The links resolve only when an installer also has the main ss workflow installed; in a standalone Bundle install they are dangling. Direction: vendor the two Format files into the Bundle or drop the file links to plain prose, in a later ticket.
+- [clean:duplication] The `ss-grilling` copy is renamed only; its two `ss-domain-modeling` links are the sole cross-Bundle references. Direction: settle with the finding above.
+
+- **Selesai:** 2026-11-21 · ss-prd-division@uncommitted
 
 ## What to build
 
