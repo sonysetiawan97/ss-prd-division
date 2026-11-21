@@ -1,9 +1,9 @@
-# PRD Divisi Format — QC
+# Division PRD Format — QC
 
 One file per Division at `docs/qc/prd.md`. Use the template exactly: the same headings in the same order, nothing added or renamed. A section with nothing decided holds only the project's word for "none decided".
 
 ```md
-# PRD Divisi: QC — <project name>
+# Division PRD: QC — <project name>
 
 ## 1. Overview
 1–2 paragraphs: what the QC division verifies and why it matters to the project.
@@ -52,7 +52,7 @@ Test tooling, environments, data, and constraints that shape the work.
 | :--- | :----- | :--------- |
 |  |  |  |
 
-## 11. Strategi Pengujian
+## 11. Testing Strategy
 Test levels (unit, integration, end-to-end), environments and test data, pass criteria per level, and what is deliberately not tested.
 
 ## 12. Acceptance Criteria

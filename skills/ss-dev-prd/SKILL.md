@@ -18,7 +18,7 @@ This PRD is derived from the main PRD, not a second opinion: it selects the requ
 
 1. Read the inputs. Do **not** re-interview; the grilling already happened.
 2. Draft from the main PRD: select the goals, users, requirements, and acceptance criteria the Dev division owns. Every requirement traces to a main-PRD requirement or a settled decision — say which.
-3. Fill `## 11. Ketergantungan Arsitektur`: the API and interface contracts, data the division reads or writes, integrations it depends on, and what it must **not** own (that belongs to another Application or division).
+3. Fill `## 11. Architecture Dependencies`: the API and interface contracts, data the division reads or writes, integrations it depends on, and what it must **not** own (that belongs to another Application or division).
 4. If a requirement contradicts the main PRD, stop and ask the user to update the main PRD first. The main PRD always wins.
 5. Write the file using [PRD-FORMAT.md](./PRD-FORMAT.md) exactly: same headings, same order, nothing added or renamed. A section with nothing decided holds only the project's word for "none decided".
 6. Append one line to the top of `## 13. Changelog`: date, what changed, why.

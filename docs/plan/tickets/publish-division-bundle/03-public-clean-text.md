@@ -2,8 +2,11 @@
 
 - **Date:** 2026-11-21
 - **Source:** `docs/spec/publish-division-bundle.md`
-- **Status:** ready
+- **Status:** done
+  - 2026-11-21 — Review (ss-code-review-001): clean against the ticket, with one Suggestion — `ss-division-workflow/SKILL.md` still read "Peta Folder", an Indonesian string; fixed in the same tree to "the folder map". All acceptance greps now return nothing; `~/.agents/skills` paths and Sagara names absent; the workflow stops and names missing `docs/prd.md` / `architecture/overview.md` (Prerequisites section).
 - **Blocked by:** 02 — Trim the Division workflow to grilling and the Division PRD
+
+- **Selesai:** 2026-11-21 · ss-prd-division@uncommitted
 
 ## What to build
 

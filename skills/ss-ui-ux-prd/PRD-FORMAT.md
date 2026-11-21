@@ -1,9 +1,9 @@
-# PRD Divisi Format — UI/UX
+# Division PRD Format — UI/UX
 
 One file per Division at `docs/ui-ux/prd.md`. Use the template exactly: the same headings in the same order, nothing added or renamed. A section with nothing decided holds only the project's word for "none decided".
 
 ```md
-# PRD Divisi: UI/UX — <project name>
+# Division PRD: UI/UX — <project name>
 
 ## 1. Overview
 1–2 paragraphs: what the UI/UX division designs and why it matters to the project.
@@ -52,7 +52,7 @@ Design tooling, component library, accessibility, and constraints that shape the
 | :--- | :----- | :--------- |
 |  |  |  |
 
-## 11. Alur & Antarmuka
+## 11. Flows & Interface
 Screen or flow sequence, the state of each surface (empty, loading, error, success), accessibility rules, and responsive breakpoints.
 
 ## 12. Acceptance Criteria

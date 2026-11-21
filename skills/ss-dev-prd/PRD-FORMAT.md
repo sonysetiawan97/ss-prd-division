@@ -1,9 +1,9 @@
-# PRD Divisi Format — Dev
+# Division PRD Format — Dev
 
 One file per Division at `docs/dev/prd.md`. Use the template exactly: the same headings in the same order, nothing added or renamed. A section with nothing decided holds only the project's word for "none decided".
 
 ```md
-# PRD Divisi: Dev — <project name>
+# Division PRD: Dev — <project name>
 
 ## 1. Overview
 1–2 paragraphs: what the Dev division delivers and why it matters to the project.
@@ -52,7 +52,7 @@ Stack, data, security, performance, and deployment constraints that shape the bu
 | :--- | :----- | :--------- |
 |  |  |  |
 
-## 11. Ketergantungan Arsitektur
+## 11. Architecture Dependencies
 The API/interface contracts, data, and integrations this division depends on, and what it must not own.
 
 ## 12. Acceptance Criteria

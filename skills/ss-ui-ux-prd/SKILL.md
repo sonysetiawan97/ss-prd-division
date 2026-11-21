@@ -18,7 +18,7 @@ This PRD is derived from the main PRD: it selects the requirements that have a u
 
 1. Read the inputs. Do **not** re-interview; the grilling already happened.
 2. Draft from the main PRD: select the requirements, users, and acceptance criteria with a user-facing surface. Every item traces to a main-PRD requirement or a settled decision — say which.
-3. Fill `## 11. Alur & Antarmuka`: the screen or flow sequence, the state of each surface (empty, loading, error, success), accessibility rules, and responsive breakpoints.
+3. Fill `## 11. Flows & Interface`: the screen or flow sequence, the state of each surface (empty, loading, error, success), accessibility rules, and responsive breakpoints.
 4. If a requirement contradicts the main PRD, stop and ask the user to update the main PRD first. The main PRD always wins.
 5. Write the file using [PRD-FORMAT.md](./PRD-FORMAT.md) exactly: same headings, same order, nothing added or renamed. A section with nothing decided holds only the project's word for "none decided".
 6. Append one line to the top of `## 13. Changelog`: date, what changed, why.
