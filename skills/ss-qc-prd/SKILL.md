@@ -22,7 +22,7 @@ This PRD is derived from the main PRD: it selects the requirements QC must verif
 4. If a requirement contradicts the main PRD, stop and ask the user to update the main PRD first. The main PRD always wins.
 5. Write the file using [PRD-FORMAT.md](./PRD-FORMAT.md) exactly: same headings, same order, nothing added or renamed. A section with nothing decided holds only the project's word for "none decided".
 6. Append one line to the top of `## 13. Changelog`: date, what changed, why.
-7. Show the user the written PRD and the changelog line. Do not start on specs until the user confirms.
+7. Show the user the written PRD and the changelog line. Stop for confirmation.
 
 ## Rules
 

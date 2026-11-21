@@ -2,8 +2,12 @@
 
 - **Date:** 2026-11-21
 - **Source:** `docs/spec/publish-division-bundle.md`
-- **Status:** ready
+- **Status:** done
 - **Blocked by:** 01 — Import the five skills under published names
+
+## Status notes
+
+- **Selesai:** 2026-11-21 · ss-prd-division@uncommitted
 
 ## What to build
 
