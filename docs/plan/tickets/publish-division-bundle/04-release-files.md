@@ -2,7 +2,7 @@
 
 - **Date:** 2026-11-21
 - **Source:** `docs/spec/publish-division-bundle.md`
-- **Status:** ready
+- **Status:** in-progress
 - **Blocked by:** 03 — Make the bundle public-clean
 
 ## What to build
